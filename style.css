@@ -1,0 +1,31 @@
+body{
+     background-color:  hsl(220, 15%, 55%);
+}
+.b1{
+    background-color: white;
+    margin-right:780px ;
+    margin-left:830px;
+    margin-top: 200px;
+    text-align: center;
+    border: 10px solid white;
+    border-radius: 10px;
+    
+}
+img{
+    
+    border-radius: 10px;
+}
+
+   .t1{
+    font-weight: 900px;
+    font-size: 15px;
+   
+   } 
+
+
+
+.t2{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
